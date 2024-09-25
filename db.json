@@ -122,7 +122,7 @@
         {
           "id": 10,
           "name": "MacBook Air (M2, 2022)",
-          "thumbnail":"/images/macs/macbook-m2.png",
+          "thumbnail":"https://firebasestorage.googleapis.com/v0/b/coreone-bd944.appspot.com/o/macs%2Fmacbook-m2.png?alt=media&token=4290b036-0459-49d7-8eab-586daf7438aa",
           "display": "13.6-inch Liquid Retina display",
           "processor": "Apple M2 chip",
           "storage": [
