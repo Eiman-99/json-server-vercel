@@ -132,7 +132,7 @@
         },
         {
           "id": 11,
-          "name": "MacBook Pro 14-inch (M3, 2023)",
+          "name": "MacBook Pro 14 (M3, 2023)",
           "thumbnail":"https://firebasestorage.googleapis.com/v0/b/coreone-bd944.appspot.com/o/macs%2FMacBook%20Pro.png?alt=media&token=fcccd3cc-fef8-4c36-a2d7-ccca21c1a742",
           "display": "14.2-inch Liquid Retina XDR display",
           "processor": "Apple M1 Pro chip",
@@ -143,7 +143,7 @@
         },
         {
           "id": 12,
-          "name": "MacBook Pro 16-inch (M3, 2023)",
+          "name": "MacBook Pro 16 (M3, 2023)",
           "thumbnail":"https://firebasestorage.googleapis.com/v0/b/coreone-bd944.appspot.com/o/macs%2FMacBook%20Pro.png?alt=media&token=fcccd3cc-fef8-4c36-a2d7-ccca21c1a742",
           "display": "16.2-inch Liquid Retina XDR display",
           "processor": "Apple M1 Pro chip",
@@ -154,7 +154,7 @@
         },
         {
           "id": 13,
-          "name": "MacBook Ar 15-inch (M3, 2024)",
+          "name": "MacBook Ar 15 (M3, 2024)",
           "thumbnail":"https://firebasestorage.googleapis.com/v0/b/coreone-bd944.appspot.com/o/macs%2FMacBook%20Ar%2015-inch%20(M3%2C%202024).png?alt=media&token=beac1466-f855-4a12-840e-181417946fe3",
           "display": "15.2-inch Liquid Retina XDR display",
           "processor": "Apple M1 Pro chip",
