@@ -7,7 +7,7 @@
         {
           "id": 1,
           "name": "iPhone 11",
-          "thumbnail":"/images/iphones/iphone11-cover.png",
+          "thumbnail":"https://firebasestorage.googleapis.com/v0/b/coreone-bd944.appspot.com/o/iphones%2Fiphone11-cover.png?alt=media&token=73697146-c4e7-439b-9d0b-bd48a689ee79",
           "display": "6.1-inch Liquid Retina HD display",
           "processor": "A13 Bionic chip",
           "storage": [
@@ -18,7 +18,7 @@
         {
           "id": 2,
           "name": "iPhone 12",
-          "thumbnail":"/images/iphones/iphone12-cover.png",
+          "thumbnail":"https://firebasestorage.googleapis.com/v0/b/coreone-bd944.appspot.com/o/iphones%2Fiphone12-cover.png?alt=media&token=56c849d4-0165-4e15-9906-1d3b4e12d67b",
           "display": "6.1-inch Super Retina XDR display",
           "processor": "A14 Bionic chip",
           "storage": [
@@ -29,7 +29,7 @@
         {
           "id": 3,
           "name": "iPhone 12 Pro",
-          "thumbnail":"/images/iphones/iphone12pro-cover.png",
+          "thumbnail":"https://firebasestorage.googleapis.com/v0/b/coreone-bd944.appspot.com/o/iphones%2Fiphone12pro-cover.png?alt=media&token=5629cb8a-caf6-4991-9415-2eff29eadbc1",
           "display": "6.1-inch Super Retina XDR display",
           "processor": "A14 Bionic chip",
           "storage": [
@@ -41,7 +41,7 @@
         {
           "id": 4,
           "name": "iPhone 13",
-          "thumbnail":"/images/iphones/iphone13-cover.png",
+          "thumbnail":"https://firebasestorage.googleapis.com/v0/b/coreone-bd944.appspot.com/o/iphones%2Fiphone13-cover.png?alt=media&token=86614e3c-e300-4cb9-9d15-5548e89ed7a2",
           "display": "6.1-inch Super Retina XDR display",
           "processor": "A15 Bionic chip",
           "storage": [
@@ -53,7 +53,7 @@
         {
           "id": 5,
           "name": "iPhone 13 Pro",
-          "thumbnail":"/images/iphones/iphone13pro-cover.png",
+          "thumbnail":"https://firebasestorage.googleapis.com/v0/b/coreone-bd944.appspot.com/o/iphones%2Fiphone13pro-cover.png?alt=media&token=ab652c39-74b3-4832-b192-69d50b49f916",
           "display": "6.1-inch Super Retina XDR display",
           "processor": "A15 Bionic chip",
           "storage": [
@@ -66,7 +66,7 @@
         {
           "id": 6,
           "name": "iPhone 14",
-          "thumbnail":"/images/iphones/iphone14-cover.png",
+          "thumbnail":"https://firebasestorage.googleapis.com/v0/b/coreone-bd944.appspot.com/o/iphones%2Fiphone14-cover.png?alt=media&token=a5f88f80-f341-4650-b33f-3851099a605a",
           "display": "6.1-inch Super Retina XDR display",
           "processor": "A15 Bionic chip",
           "storage": [
@@ -78,7 +78,7 @@
         {
           "id": 7,
           "name": "iPhone 14 Pro",
-          "thumbnail":"/images/iphones/iphone14pro-cover.png",
+          "thumbnail":"https://firebasestorage.googleapis.com/v0/b/coreone-bd944.appspot.com/o/iphones%2Fiphone14pro-cover.png?alt=media&token=d8ce4d11-c845-4f78-b5b0-423fa927e724",
           "display": "6.1-inch Super Retina XDR display",
           "processor": "A16 Bionic chip",
           "storage": [
@@ -91,7 +91,7 @@
         {
           "id": 8,
           "name": "iPhone 15",
-          "thumbnail":"/images/iphones/iphone15-cover.png",
+          "thumbnail":"https://firebasestorage.googleapis.com/v0/b/coreone-bd944.appspot.com/o/iphones%2Fiphone15-cover.png?alt=media&token=4718a0e5-e954-4d47-842f-4d39792fa92d",
           "display": "6.1-inch Super Retina XDR display",
           "processor": "A16 Bionic chip",
           "storage": [
@@ -103,7 +103,7 @@
         {
           "id": 9,
           "name": "iPhone 15 Pro",
-          "thumbnail":"/images/iphones/iphone15pro-cover.png",
+          "thumbnail":"https://firebasestorage.googleapis.com/v0/b/coreone-bd944.appspot.com/o/iphones%2Fiphone15pro-cover.png?alt=media&token=2d7b2ced-b92a-4799-ad3f-57f3ebe9580a",
           "display": "6.1-inch Super Retina XDR display",
           "processor": "A17 Pro chip",
           "storage": [
