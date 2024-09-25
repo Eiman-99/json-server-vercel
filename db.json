@@ -2,12 +2,12 @@
   "categories": [
     { "id":"100",
       "categoryName": "iPhone",
-      "image":"images/iphones.jpg",
+      "image":"/images/iphones.jpg",
       "products": [
         {
           "id": 1,
           "name": "iPhone 11",
-          "thumbnail":"images/iphones/iphone11-cover.png",
+          "thumbnail":"/images/iphones/iphone11-cover.png",
           "display": "6.1-inch Liquid Retina HD display",
           "processor": "A13 Bionic chip",
           "storage": [
