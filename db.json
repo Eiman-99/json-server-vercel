@@ -2,12 +2,12 @@
   "categories": [
     { "id":"100",
       "categoryName": "iPhone",
-      "image":"./images/iphones.jpg",
+      "image":"images/iphones.jpg",
       "products": [
         {
           "id": 1,
           "name": "iPhone 11",
-          "thumbnail":"./images/iphones/iphone11-cover.png",
+          "thumbnail":"images/iphones/iphone11-cover.png",
           "display": "6.1-inch Liquid Retina HD display",
           "processor": "A13 Bionic chip",
           "storage": [
@@ -121,16 +121,6 @@
       "products": [
         {
           "id": 10,
-          "name": "MacBook Air (M1, 2020)",
-          "display": "13.3-inch Retina display",
-          "processor": "Apple M1 chip",
-          "storage": [
-            {"size": "256GB", "price": 999},
-            {"size": "512GB", "price": 1249}
-          ]
-        },
-        {
-          "id": 11,
           "name": "MacBook Air (M2, 2022)",
           "display": "13.6-inch Liquid Retina display",
           "processor": "Apple M2 chip",
@@ -140,8 +130,8 @@
           ]
         },
         {
-          "id": 12,
-          "name": "MacBook Pro 14-inch (M1, 2021)",
+          "id": 11,
+          "name": "MacBook Pro 14-inch (M3, 2023)",
           "display": "14.2-inch Liquid Retina XDR display",
           "processor": "Apple M1 Pro chip",
           "storage": [
@@ -150,12 +140,22 @@
           ]
         },
         {
-          "id": 13,
-          "name": "MacBook Pro 16-inch (M1, 2021)",
+          "id": 12,
+          "name": "MacBook Pro 16-inch (M3, 2023)",
           "display": "16.2-inch Liquid Retina XDR display",
           "processor": "Apple M1 Pro chip",
           "storage": [
-            {"size": "512GB", "price": 2499},
+            {"size": "512GB", "price": 2249},
+            {"size": "1TB", "price": 2749}
+          ]
+        },
+        {
+          "id": 13,
+          "name": "MacBook Ar 15-inch (M3, 2024)",
+          "display": "15.2-inch Liquid Retina XDR display",
+          "processor": "Apple M1 Pro chip",
+          "storage": [
+            {"size": "512GB", "price": 2249},
             {"size": "1TB", "price": 2749}
           ]
         }
