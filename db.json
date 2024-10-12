@@ -90,8 +90,8 @@
           "display": "6.1-inch Super Retina XDR display",
           "processor": "A15 Bionic chip",
           "images":[
-            {"image":"https://firebasestorage.googleapis.com/v0/b/coreone-bd944.appspot.com/o/iphones%2Fiphone14%2Fpngimg.com%20-%20iphone_14_PNG20.png?alt=media&token=c2ff33f1-2611-4160-a419-fc3a951d5063"},
-            {"image":"https://firebasestorage.googleapis.com/v0/b/coreone-bd944.appspot.com/o/iphones%2Fiphone14%2FiPhone%2014%20Pro.png?alt=media&token=9aeb418c-06f9-458f-b3d6-21c9fca98a11"}
+            {"image":"https://console.firebase.google.com/u/0/project/coreone-bd944/storage/coreone-bd944.appspot.com/files/~2Fiphones~2Fiphone14"},
+            {"image":"https://firebasestorage.googleapis.com/v0/b/coreone-bd944.appspot.com/o/iphones%2Fiphone14%2Fiphone14-2.png?alt=media&token=5cd8ba3f-8ee9-4a3f-81b8-7fce73c6b471"},
           ],
           "storage": [
             {"size": "128GB", "price": 799},
@@ -106,8 +106,8 @@
           "display": "6.1-inch Super Retina XDR display",
           "processor": "A16 Bionic chip",
           "images":[
-            {"image":"https://firebasestorage.googleapis.com/v0/b/coreone-bd944.appspot.com/o/iphones%2Fiphone14%2Fpngimg.com%20-%20iphone_14_PNG20.png?alt=media&token=c2ff33f1-2611-4160-a419-fc3a951d5063"},
-            {"image":"https://firebasestorage.googleapis.com/v0/b/coreone-bd944.appspot.com/o/iphones%2Fiphone14%2FiPhone%2014%20Pro.png?alt=media&token=9aeb418c-06f9-458f-b3d6-21c9fca98a11"}
+            {"image":"https://console.firebase.google.com/u/0/project/coreone-bd944/storage/coreone-bd944.appspot.com/files/~2Fiphones~2Fiphone14"},
+            {"image":"https://firebasestorage.googleapis.com/v0/b/coreone-bd944.appspot.com/o/iphones%2Fiphone14%2Fiphone14-2.png?alt=media&token=5cd8ba3f-8ee9-4a3f-81b8-7fce73c6b471"},
           ],
           "storage": [
             {"size": "128GB", "price": 999},
