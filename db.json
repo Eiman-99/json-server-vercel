@@ -2,7 +2,7 @@
   "categories": [
     { "id":"100",
       "categoryName": "iPhone",
-      "image":"/images/iphones.jpg",
+      "image":"https://firebasestorage.googleapis.com/v0/b/coreone-bd944.appspot.com/o/iphones.jpg?alt=media&token=e92b1c42-902c-4fd9-aaf6-d88a5ea5d732",
       "products": [
         {
           "id": 1,
@@ -153,7 +153,7 @@
     },
     { "id":"200",
       "categoryName": "Mac",
-      "image": "/images/macbooks.jpg",
+      "image": "https://firebasestorage.googleapis.com/v0/b/coreone-bd944.appspot.com/o/macbooks.jpg?alt=media&token=6e310fce-9b79-40a3-95fe-c1617d94e396",
       "products": [
         {
           "id": 10,
@@ -203,7 +203,7 @@
     },
     { "id":"300",
       "categoryName": "iPad",
-      "image":"/images/ipads.jpg",
+      "image":"https://firebasestorage.googleapis.com/v0/b/coreone-bd944.appspot.com/o/ipads.jpg?alt=media&token=01107e38-030a-48a3-ac5a-b0d8928fce90",
       "products": [
         {
           "id": 14,
@@ -254,7 +254,7 @@
     },
     { "id":"400",
       "categoryName": "Watch",
-      "image":"/images/watches.jpg",
+      "image":"https://firebasestorage.googleapis.com/v0/b/coreone-bd944.appspot.com/o/watches.jpg?alt=media&token=bc261aa1-696c-42fb-b41f-654388cba5b4",
       "products": [
         {
           "id": 18,
@@ -292,7 +292,7 @@
     },
     { "id":"500",
       "categoryName": "AirPods",
-      "image":"/images/airpods.jpg",
+      "image":"https://firebasestorage.googleapis.com/v0/b/coreone-bd944.appspot.com/o/airpods.jpg?alt=media&token=4d643f4d-0ec6-4989-a734-1decd206fdae",
       "products": [
         {
           "id": 22,
