@@ -26,8 +26,8 @@
           "display": "6.1-inch Super Retina XDR display",
           "processor": "A14 Bionic chip",
           "images":[
-            {"image":"https://firebasestorage.googleapis.com/v0/b/coreone-bd944.appspot.com/o/iphones%2Fiphone12%2Fpngimg.com%20-%20iphone_12_PNG19.png?alt=media&token=1be6a93c-24aa-40fe-8ed0-b6785066f00b"},
-            {"image":"https://firebasestorage.googleapis.com/v0/b/coreone-bd944.appspot.com/o/iphones%2Fiphone12%2Fpngimg.com%20-%20iphone_12_PNG3.png?alt=media&token=443a13f3-4925-4897-b6f6-677168cfff7f"}
+            {"image":"https://firebasestorage.googleapis.com/v0/b/coreone-bd944.appspot.com/o/iphones%2Fiphone12%2Fiphone12.png?alt=media&token=d79a7a83-e6d9-44a7-b6e5-48105e00ca11"},
+            {"image":"https://firebasestorage.googleapis.com/v0/b/coreone-bd944.appspot.com/o/iphones%2Fiphone12%2Fiphone12-2.png?alt=media&token=141bd17a-3f92-4b49-b3f6-994ca391ffd5"}
           ],
           "storage": [
             {"size": "128GB", "price": 649},
@@ -41,8 +41,8 @@
           "display": "6.1-inch Super Retina XDR display",
           "processor": "A14 Bionic chip",
           "images":[
-            {"image":"https://firebasestorage.googleapis.com/v0/b/coreone-bd944.appspot.com/o/iphones%2Fiphone12%2Fpngimg.com%20-%20iphone_12_PNG19.png?alt=media&token=1be6a93c-24aa-40fe-8ed0-b6785066f00b"},
-            {"image":"https://firebasestorage.googleapis.com/v0/b/coreone-bd944.appspot.com/o/iphones%2Fiphone12%2Fpngimg.com%20-%20iphone_12_PNG3.png?alt=media&token=443a13f3-4925-4897-b6f6-677168cfff7f"}
+            {"image":"https://firebasestorage.googleapis.com/v0/b/coreone-bd944.appspot.com/o/iphones%2Fiphone12%2Fiphone12.png?alt=media&token=d79a7a83-e6d9-44a7-b6e5-48105e00ca11"},
+            {"image":"https://firebasestorage.googleapis.com/v0/b/coreone-bd944.appspot.com/o/iphones%2Fiphone12%2Fiphone12-2.png?alt=media&token=141bd17a-3f92-4b49-b3f6-994ca391ffd5"}
           ],
           "storage": [
             {"size": "128GB", "price": 999},
