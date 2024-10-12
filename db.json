@@ -123,8 +123,8 @@
           "display": "6.1-inch Super Retina XDR display",
           "processor": "A16 Bionic chip",
           "images":[
-            {"image":"https://firebasestorage.googleapis.com/v0/b/coreone-bd944.appspot.com/o/iphones%2Fiphone15%2Fa188b8de2ca182d981bfaf78b30d4648.png?alt=media&token=4a061595-03bd-4c8f-882d-fff782d3c865"},
-            {"image":"https://firebasestorage.googleapis.com/v0/b/coreone-bd944.appspot.com/o/iphones%2Fiphone15%2F29f469e092c8303d0c1e3586747e5b87.png?alt=media&token=caaf73e2-0427-4acf-abff-a574dc66967b"}
+            {"image":"https://firebasestorage.googleapis.com/v0/b/coreone-bd944.appspot.com/o/iphones%2Fiphone15%2Fiphone15.png?alt=media&token=61e8b105-8ee4-461e-afc2-ac2ea2eb97e5"},
+            {"image":"https://firebasestorage.googleapis.com/v0/b/coreone-bd944.appspot.com/o/iphones%2Fiphone15%2Fiphone15-2.png?alt=media&token=68e5cb96-f42c-4a61-9fb7-4347e2833362"}
           ],
           "storage": [
             {"size": "128GB", "price": 799},
@@ -139,8 +139,8 @@
           "display": "6.1-inch Super Retina XDR display",
           "processor": "A17 Pro chip",
           "images":[
-            {"image":"https://firebasestorage.googleapis.com/v0/b/coreone-bd944.appspot.com/o/iphones%2Fiphone15%2Fa188b8de2ca182d981bfaf78b30d4648.png?alt=media&token=4a061595-03bd-4c8f-882d-fff782d3c865"},
-            {"image":"https://firebasestorage.googleapis.com/v0/b/coreone-bd944.appspot.com/o/iphones%2Fiphone15%2F29f469e092c8303d0c1e3586747e5b87.png?alt=media&token=caaf73e2-0427-4acf-abff-a574dc66967b"}
+            {"image":"https://firebasestorage.googleapis.com/v0/b/coreone-bd944.appspot.com/o/iphones%2Fiphone15%2Fiphone15.png?alt=media&token=61e8b105-8ee4-461e-afc2-ac2ea2eb97e5"},
+            {"image":"https://firebasestorage.googleapis.com/v0/b/coreone-bd944.appspot.com/o/iphones%2Fiphone15%2Fiphone15-2.png?alt=media&token=68e5cb96-f42c-4a61-9fb7-4347e2833362"}
           ],
           "storage": [
             {"size": "128GB", "price": 999},
