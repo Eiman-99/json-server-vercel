@@ -91,7 +91,7 @@
           "processor": "A15 Bionic chip",
           "images":[
             {"image":"https://console.firebase.google.com/u/0/project/coreone-bd944/storage/coreone-bd944.appspot.com/files/~2Fiphones~2Fiphone14"},
-            {"image":"https://firebasestorage.googleapis.com/v0/b/coreone-bd944.appspot.com/o/iphones%2Fiphone14%2Fiphone14-2.png?alt=media&token=5cd8ba3f-8ee9-4a3f-81b8-7fce73c6b471"},
+            {"image":"https://firebasestorage.googleapis.com/v0/b/coreone-bd944.appspot.com/o/iphones%2Fiphone14%2Fiphone14-2.png?alt=media&token=5cd8ba3f-8ee9-4a3f-81b8-7fce73c6b471"}
           ],
           "storage": [
             {"size": "128GB", "price": 799},
@@ -107,7 +107,7 @@
           "processor": "A16 Bionic chip",
           "images":[
             {"image":"https://console.firebase.google.com/u/0/project/coreone-bd944/storage/coreone-bd944.appspot.com/files/~2Fiphones~2Fiphone14"},
-            {"image":"https://firebasestorage.googleapis.com/v0/b/coreone-bd944.appspot.com/o/iphones%2Fiphone14%2Fiphone14-2.png?alt=media&token=5cd8ba3f-8ee9-4a3f-81b8-7fce73c6b471"},
+            {"image":"https://firebasestorage.googleapis.com/v0/b/coreone-bd944.appspot.com/o/iphones%2Fiphone14%2Fiphone14-2.png?alt=media&token=5cd8ba3f-8ee9-4a3f-81b8-7fce73c6b471"}
           ],
           "storage": [
             {"size": "128GB", "price": 999},
