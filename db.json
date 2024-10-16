@@ -264,9 +264,7 @@
           "storage": [
             {"size": "128GB", "price": 1099},
             {"size": "256GB", "price": 1199},
-            {"size": "512GB", "price": 1399},
-            {"size": "1TB", "price": 1599},
-            {"size": "2TB", "price": 1799}
+            {"size": "512GB", "price": 1399}
           ]
         },
         {
