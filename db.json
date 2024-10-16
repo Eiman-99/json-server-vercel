@@ -177,8 +177,8 @@
           "display": "16.2-inch Liquid Retina XDR display",
           "processor": "Apple M1 Pro chip",
           "images":[
-            {"image":"https://firebasestorage.googleapis.com/v0/b/coreone-bd944.appspot.com/o/macs%2Fmacbook2024.png?alt=media&token=fed60124-12da-4051-8f4f-9fe84ee9d8f3"},
-            {"image":"https://firebasestorage.googleapis.com/v0/b/coreone-bd944.appspot.com/o/macs%2FmacbookAir.png?alt=media&token=652c8d88-13d1-4884-b469-1749d3cbcdf5"}
+            {"image":"https://firebasestorage.googleapis.com/v0/b/coreone-bd944.appspot.com/o/macs%2FmacbookPro.png?alt=media&token=4c3b1547-5aac-4b87-8a29-cc021bb90787"},
+            {"image":"https://firebasestorage.googleapis.com/v0/b/coreone-bd944.appspot.com/o/macs%2FmacbookProSide.png?alt=media&token=d9257a2c-5c24-4f6e-beb6-ec2a6ab3a399"}
           ],
           "storage": [
             {"size": "512GB", "price": 2249},
@@ -191,9 +191,9 @@
           "thumbnail":"https://firebasestorage.googleapis.com/v0/b/coreone-bd944.appspot.com/o/macs%2FMacBook%20Pro.png?alt=media&token=fcccd3cc-fef8-4c36-a2d7-ccca21c1a742",
           "display": "14.2-inch Liquid Retina XDR display",
           "processor": "Apple M1 Pro chip",
-          "images":[
-            {"image":"https://firebasestorage.googleapis.com/v0/b/coreone-bd944.appspot.com/o/macs%2Fmacbook2024.png?alt=media&token=fed60124-12da-4051-8f4f-9fe84ee9d8f3"},
-            {"image":"https://firebasestorage.googleapis.com/v0/b/coreone-bd944.appspot.com/o/macs%2FmacbookAir.png?alt=media&token=652c8d88-13d1-4884-b469-1749d3cbcdf5"}
+         "images":[
+            {"image":"https://firebasestorage.googleapis.com/v0/b/coreone-bd944.appspot.com/o/macs%2FmacbookPro.png?alt=media&token=4c3b1547-5aac-4b87-8a29-cc021bb90787"},
+            {"image":"https://firebasestorage.googleapis.com/v0/b/coreone-bd944.appspot.com/o/macs%2FmacbookProSide.png?alt=media&token=d9257a2c-5c24-4f6e-beb6-ec2a6ab3a399"}
           ],
           "storage": [
             {"size": "512GB", "price": 1999},
@@ -207,7 +207,7 @@
           "display": "13.6-inch Liquid Retina display",
           "processor": "Apple M2 chip",
           "images":[
-            {"image":"https://firebasestorage.googleapis.com/v0/b/coreone-bd944.appspot.com/o/macs%2Fmacbook2024.png?alt=media&token=fed60124-12da-4051-8f4f-9fe84ee9d8f3"},
+            {"image":"https://firebasestorage.googleapis.com/v0/b/coreone-bd944.appspot.com/o/macs%2FmacbookAir2022.png?alt=media&token=6b3eac98-fdbe-43f9-bfed-f56faedaafbe"},
             {"image":"https://firebasestorage.googleapis.com/v0/b/coreone-bd944.appspot.com/o/macs%2FmacbookAir.png?alt=media&token=652c8d88-13d1-4884-b469-1749d3cbcdf5"}
           ],
           "storage": [
