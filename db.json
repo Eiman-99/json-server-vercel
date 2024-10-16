@@ -157,28 +157,17 @@
       "products": [
         {
           "id": 10,
-          "name": "MacBook Air (M2, 2022)",
-          "thumbnail":"https://firebasestorage.googleapis.com/v0/b/coreone-bd944.appspot.com/o/macs%2Fmacbook-m2.png?alt=media&token=4290b036-0459-49d7-8eab-586daf7438aa",
-          "display": "13.6-inch Liquid Retina display",
-          "processor": "Apple M2 chip",
-          "storage": [
-            {"size": "256GB", "price": 1199},
-            {"size": "512GB", "price": 1449}
-          ]
-        },
-        {
-          "id": 11,
-          "name": "MacBook Pro 14 (M3, 2023)",
-          "thumbnail":"https://firebasestorage.googleapis.com/v0/b/coreone-bd944.appspot.com/o/macs%2FMacBook%20Pro.png?alt=media&token=fcccd3cc-fef8-4c36-a2d7-ccca21c1a742",
-          "display": "14.2-inch Liquid Retina XDR display",
+          "name": "MacBook Ar 15 (M3, 2024)",
+          "thumbnail":"https://firebasestorage.googleapis.com/v0/b/coreone-bd944.appspot.com/o/macs%2FMacBook%20Ar%2015-inch%20(M3%2C%202024).png?alt=media&token=beac1466-f855-4a12-840e-181417946fe3",
+          "display": "15.2-inch Liquid Retina XDR display",
           "processor": "Apple M1 Pro chip",
           "storage": [
-            {"size": "512GB", "price": 1999},
-            {"size": "1TB", "price": 2249}
+            {"size": "512GB", "price": 2249},
+            {"size": "1TB", "price": 2749}
           ]
-        },
+        }, 
         {
-          "id": 12,
+          "id": 11,
           "name": "MacBook Pro 16 (M3, 2023)",
           "thumbnail":"https://firebasestorage.googleapis.com/v0/b/coreone-bd944.appspot.com/o/macs%2FMacBook%20Pro.png?alt=media&token=fcccd3cc-fef8-4c36-a2d7-ccca21c1a742",
           "display": "16.2-inch Liquid Retina XDR display",
@@ -189,14 +178,25 @@
           ]
         },
         {
-          "id": 13,
-          "name": "MacBook Ar 15 (M3, 2024)",
-          "thumbnail":"https://firebasestorage.googleapis.com/v0/b/coreone-bd944.appspot.com/o/macs%2FMacBook%20Ar%2015-inch%20(M3%2C%202024).png?alt=media&token=beac1466-f855-4a12-840e-181417946fe3",
-          "display": "15.2-inch Liquid Retina XDR display",
+          "id": 12,
+          "name": "MacBook Pro 14 (M3, 2023)",
+          "thumbnail":"https://firebasestorage.googleapis.com/v0/b/coreone-bd944.appspot.com/o/macs%2FMacBook%20Pro.png?alt=media&token=fcccd3cc-fef8-4c36-a2d7-ccca21c1a742",
+          "display": "14.2-inch Liquid Retina XDR display",
           "processor": "Apple M1 Pro chip",
           "storage": [
-            {"size": "512GB", "price": 2249},
-            {"size": "1TB", "price": 2749}
+            {"size": "512GB", "price": 1999},
+            {"size": "1TB", "price": 2249}
+          ]
+        },
+        {
+          "id": 13,
+          "name": "MacBook Air (M2, 2022)",
+          "thumbnail":"https://firebasestorage.googleapis.com/v0/b/coreone-bd944.appspot.com/o/macs%2Fmacbook-m2.png?alt=media&token=4290b036-0459-49d7-8eab-586daf7438aa",
+          "display": "13.6-inch Liquid Retina display",
+          "processor": "Apple M2 chip",
+          "storage": [
+            {"size": "256GB", "price": 1199},
+            {"size": "512GB", "price": 1449}
           ]
         }
       ]
