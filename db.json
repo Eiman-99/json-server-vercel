@@ -297,8 +297,7 @@
             {"image":"https://firebasestorage.googleapis.com/v0/b/coreone-bd944.appspot.com/o/macs%2Fmacbook2024.png?alt=media&token=fed60124-12da-4051-8f4f-9fe84ee9d8f3"},
             {"image":"https://firebasestorage.googleapis.com/v0/b/coreone-bd944.appspot.com/o/macs%2FmacbookAir.png?alt=media&token=652c8d88-13d1-4884-b469-1749d3cbcdf5"}
           ],
-          "storage": [{"size":"32GB"}],
-          "price": 399
+          "storage": [{"size":"32GB","price": 399}]
         },
         {
           "id": 19,
@@ -309,8 +308,7 @@
             {"image":"https://firebasestorage.googleapis.com/v0/b/coreone-bd944.appspot.com/o/macs%2Fmacbook2024.png?alt=media&token=fed60124-12da-4051-8f4f-9fe84ee9d8f3"},
             {"image":"https://firebasestorage.googleapis.com/v0/b/coreone-bd944.appspot.com/o/macs%2FmacbookAir.png?alt=media&token=652c8d88-13d1-4884-b469-1749d3cbcdf5"}
           ],
-          "storage": [{"size":"32GB"}],
-          "price": 399
+          "storage": [{"size":"32GB","price": 399}]
         },
         {
           "id": 20,
@@ -321,8 +319,7 @@
             {"image":"https://firebasestorage.googleapis.com/v0/b/coreone-bd944.appspot.com/o/macs%2Fmacbook2024.png?alt=media&token=fed60124-12da-4051-8f4f-9fe84ee9d8f3"},
             {"image":"https://firebasestorage.googleapis.com/v0/b/coreone-bd944.appspot.com/o/macs%2FmacbookAir.png?alt=media&token=652c8d88-13d1-4884-b469-1749d3cbcdf5"}
           ],
-          "storage": [{"size":"32GB"}],
-          "price": 249
+          "storage": [{"size":"32GB","price": 249}]
         },
         {
           "id": 21,
@@ -333,8 +330,7 @@
             {"image":"https://firebasestorage.googleapis.com/v0/b/coreone-bd944.appspot.com/o/macs%2Fmacbook2024.png?alt=media&token=fed60124-12da-4051-8f4f-9fe84ee9d8f3"},
             {"image":"https://firebasestorage.googleapis.com/v0/b/coreone-bd944.appspot.com/o/macs%2FmacbookAir.png?alt=media&token=652c8d88-13d1-4884-b469-1749d3cbcdf5"}
           ],
-          "storage": [{"size":"32GB"}],
-          "price": 799
+          "storage": [{"size":"32GB", "price": 799}]
         }
       ]
     },
@@ -351,7 +347,7 @@
           ],
           "features": "Automatic switching, Spatial audio",
           "batteryLife": "Up to 24 hours with charging case",
-          "price": 129
+          "storage":[{"size":"", "price": 129}]
         },
         {
           "id": 23,
@@ -362,7 +358,8 @@
           ],
           "features": "Spatial audio, Adaptive EQ",
           "batteryLife": "Up to 30 hours with charging case",
-          "price": 179
+          "storage":[{"size":"", "price": 179}]
+
         },
         {
           "id": 24,
@@ -373,7 +370,7 @@
           ],
           "features": "Active Noise Cancellation, Transparency mode",
           "batteryLife": "Up to 30 hours with charging case",
-          "price": 249
+          "storage":[{"size":"", "price": 249}]
         },
         {
           "id": 25,
@@ -384,7 +381,7 @@
           ],
           "features": "Active Noise Cancellation, Spatial audio",
           "batteryLife": "Up to 20 hours",
-          "price": 549
+          "storage":[{"size":"", "price": 549}]
         }
       ]
     }
