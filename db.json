@@ -224,10 +224,11 @@
         {
           "id": 14,
           "name": "iPad Pro",
+          "thumbnail":"https://firebasestorage.googleapis.com/v0/b/coreone-bd944.appspot.com/o/ipads%2Fipad%20pro%20cover.png?alt=media&token=732b4a3e-28f2-4503-aa9c-9dc512474687",
           "display": "10.2-inch Retina display",
           "processor": "A13 Bionic chip",
           "images":[
-            {"image":"https://firebasestorage.googleapis.com/v0/b/coreone-bd944.appspot.com/o/ipads%2Fipad%20pro.png?alt=media&token=b4c145af-813a-44ac-baf4-6fc21d509055"},
+            {"image":"https://firebasestorage.googleapis.com/v0/b/coreone-bd944.appspot.com/o/ipads%2Fipad%20pro.png?alt=media&token=6fbe8ed3-a9d5-47d8-acbf-963d4061b4f7"},
             {"image":"https://firebasestorage.googleapis.com/v0/b/coreone-bd944.appspot.com/o/ipads%2Fipad%20pro%20back.png?alt=media&token=66b22f86-a44f-4daf-a981-9381f25b62e3"}
           ],
           "storage": [
@@ -238,6 +239,7 @@
         {
           "id": 15,
           "name": "iPad Air (9th generation)",
+          "thumbnail":"https://firebasestorage.googleapis.com/v0/b/coreone-bd944.appspot.com/o/ipads%2Fipad%209th%20cover.png?alt=media&token=dba768d3-fd3f-4677-aee3-d6779af035d1",
           "display": "10.9-inch Liquid Retina display",
           "processor": "Apple M1 chip",
           "images":[
@@ -252,6 +254,7 @@
         {
           "id": 16,
           "name": "iPad Pro (12.9-inch, 5th generation)",
+          "thumbnail":"https://firebasestorage.googleapis.com/v0/b/coreone-bd944.appspot.com/o/ipads%2Fipad%205th%20cover.png?alt=media&token=5d3983bb-1ee4-444e-9b2b-7105d421b443",
           "display": "12.9-inch Liquid Retina XDR display",
           "processor": "Apple M1 chip",
           "images":[
@@ -269,6 +272,7 @@
         {
           "id": 17,
           "name": "iPad Pro (11-inch, 5th generation)",
+          "thumbnail":"https://firebasestorage.googleapis.com/v0/b/coreone-bd944.appspot.com/o/ipads%2Fipad%205th%20cover.png?alt=media&token=5d3983bb-1ee4-444e-9b2b-7105d421b443",
           "display": "11-inch Liquid Retina display",
           "processor": "Apple M1 chip",
           "images":[
