@@ -227,7 +227,7 @@
           "display": "10.2-inch Retina display",
           "processor": "A13 Bionic chip",
           "images":[
-            {"image":"https://firebasestorage.googleapis.com/v0/b/coreone-bd944.appspot.com/o/ipads%2Fipad%20pro.png?alt=media&token=1b742dd7-1757-40cf-8f34-bfe08061248d"},
+            {"image":"https://firebasestorage.googleapis.com/v0/b/coreone-bd944.appspot.com/o/ipads%2Fipad%20pro.png?alt=media&token=b4c145af-813a-44ac-baf4-6fc21d509055"},
             {"image":"https://firebasestorage.googleapis.com/v0/b/coreone-bd944.appspot.com/o/ipads%2Fipad%20pro%20back.png?alt=media&token=66b22f86-a44f-4daf-a981-9381f25b62e3"}
           ],
           "storage": [
@@ -251,22 +251,6 @@
         } ,
         {
           "id": 16,
-          "name": "iPad Pro (11-inch, 5th generation)",
-          "display": "11-inch Liquid Retina display",
-          "processor": "Apple M1 chip",
-          "images":[
-            {"image":"https://firebasestorage.googleapis.com/v0/b/coreone-bd944.appspot.com/o/ipads%2Fipad%205th.png?alt=media&token=a84f9ef7-81d7-42f2-bf7e-428c7a9d6bb6"},
-            {"image":"https://firebasestorage.googleapis.com/v0/b/coreone-bd944.appspot.com/o/ipads%2Fipad%205th%20back.png?alt=media&token=5cbdfc63-f74b-4431-9941-1e91f16fb08a"}
-          ],
-          "storage": [
-            {"size": "128GB", "price": 799},
-            {"size": "256GB", "price": 899},
-            {"size": "512GB", "price": 1099},
-            {"size": "1TB", "price": 1299}
-          ]
-        },
-        {
-          "id": 17,
           "name": "iPad Pro (12.9-inch, 5th generation)",
           "display": "12.9-inch Liquid Retina XDR display",
           "processor": "Apple M1 chip",
@@ -280,6 +264,22 @@
             {"size": "512GB", "price": 1399},
             {"size": "1TB", "price": 1599},
             {"size": "2TB", "price": 1799}
+          ]
+        },
+        {
+          "id": 17,
+          "name": "iPad Pro (11-inch, 5th generation)",
+          "display": "11-inch Liquid Retina display",
+          "processor": "Apple M1 chip",
+          "images":[
+            {"image":"https://firebasestorage.googleapis.com/v0/b/coreone-bd944.appspot.com/o/ipads%2Fipad%205th.png?alt=media&token=a84f9ef7-81d7-42f2-bf7e-428c7a9d6bb6"},
+            {"image":"https://firebasestorage.googleapis.com/v0/b/coreone-bd944.appspot.com/o/ipads%2Fipad%205th%20back.png?alt=media&token=5cbdfc63-f74b-4431-9941-1e91f16fb08a"}
+          ],
+          "storage": [
+            {"size": "128GB", "price": 799},
+            {"size": "256GB", "price": 899},
+            {"size": "512GB", "price": 1099},
+            {"size": "1TB", "price": 1299}
           ]
         }
       ]
