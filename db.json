@@ -161,6 +161,10 @@
           "thumbnail":"https://firebasestorage.googleapis.com/v0/b/coreone-bd944.appspot.com/o/macs%2FMacBook%20Ar%2015-inch%20(M3%2C%202024).png?alt=media&token=beac1466-f855-4a12-840e-181417946fe3",
           "display": "15.2-inch Liquid Retina XDR display",
           "processor": "Apple M1 Pro chip",
+          "images":[
+            {"image":"https://firebasestorage.googleapis.com/v0/b/coreone-bd944.appspot.com/o/macs%2Fmacbook2024.png?alt=media&token=fed60124-12da-4051-8f4f-9fe84ee9d8f3"},
+            {"image":"https://firebasestorage.googleapis.com/v0/b/coreone-bd944.appspot.com/o/macs%2FmacbookAir.png?alt=media&token=652c8d88-13d1-4884-b469-1749d3cbcdf5"}
+          ],
           "storage": [
             {"size": "512GB", "price": 2249},
             {"size": "1TB", "price": 2749}
@@ -172,6 +176,10 @@
           "thumbnail":"https://firebasestorage.googleapis.com/v0/b/coreone-bd944.appspot.com/o/macs%2FMacBook%20Pro.png?alt=media&token=fcccd3cc-fef8-4c36-a2d7-ccca21c1a742",
           "display": "16.2-inch Liquid Retina XDR display",
           "processor": "Apple M1 Pro chip",
+          "images":[
+            {"image":"https://firebasestorage.googleapis.com/v0/b/coreone-bd944.appspot.com/o/macs%2Fmacbook2024.png?alt=media&token=fed60124-12da-4051-8f4f-9fe84ee9d8f3"},
+            {"image":"https://firebasestorage.googleapis.com/v0/b/coreone-bd944.appspot.com/o/macs%2FmacbookAir.png?alt=media&token=652c8d88-13d1-4884-b469-1749d3cbcdf5"}
+          ],
           "storage": [
             {"size": "512GB", "price": 2249},
             {"size": "1TB", "price": 2749}
@@ -183,6 +191,10 @@
           "thumbnail":"https://firebasestorage.googleapis.com/v0/b/coreone-bd944.appspot.com/o/macs%2FMacBook%20Pro.png?alt=media&token=fcccd3cc-fef8-4c36-a2d7-ccca21c1a742",
           "display": "14.2-inch Liquid Retina XDR display",
           "processor": "Apple M1 Pro chip",
+          "images":[
+            {"image":"https://firebasestorage.googleapis.com/v0/b/coreone-bd944.appspot.com/o/macs%2Fmacbook2024.png?alt=media&token=fed60124-12da-4051-8f4f-9fe84ee9d8f3"},
+            {"image":"https://firebasestorage.googleapis.com/v0/b/coreone-bd944.appspot.com/o/macs%2FmacbookAir.png?alt=media&token=652c8d88-13d1-4884-b469-1749d3cbcdf5"}
+          ],
           "storage": [
             {"size": "512GB", "price": 1999},
             {"size": "1TB", "price": 2249}
@@ -194,6 +206,10 @@
           "thumbnail":"https://firebasestorage.googleapis.com/v0/b/coreone-bd944.appspot.com/o/macs%2Fmacbook-m2.png?alt=media&token=4290b036-0459-49d7-8eab-586daf7438aa",
           "display": "13.6-inch Liquid Retina display",
           "processor": "Apple M2 chip",
+          "images":[
+            {"image":"https://firebasestorage.googleapis.com/v0/b/coreone-bd944.appspot.com/o/macs%2Fmacbook2024.png?alt=media&token=fed60124-12da-4051-8f4f-9fe84ee9d8f3"},
+            {"image":"https://firebasestorage.googleapis.com/v0/b/coreone-bd944.appspot.com/o/macs%2FmacbookAir.png?alt=media&token=652c8d88-13d1-4884-b469-1749d3cbcdf5"}
+          ],
           "storage": [
             {"size": "256GB", "price": 1199},
             {"size": "512GB", "price": 1449}
@@ -210,6 +226,10 @@
           "name": "iPad (9th generation)",
           "display": "10.2-inch Retina display",
           "processor": "A13 Bionic chip",
+          "images":[
+            {"image":"https://firebasestorage.googleapis.com/v0/b/coreone-bd944.appspot.com/o/macs%2Fmacbook2024.png?alt=media&token=fed60124-12da-4051-8f4f-9fe84ee9d8f3"},
+            {"image":"https://firebasestorage.googleapis.com/v0/b/coreone-bd944.appspot.com/o/macs%2FmacbookAir.png?alt=media&token=652c8d88-13d1-4884-b469-1749d3cbcdf5"}
+          ],
           "storage": [
             {"size": "64GB", "price": 329},
             {"size": "256GB", "price": 479}
@@ -220,6 +240,10 @@
           "name": "iPad Air (5th generation)",
           "display": "10.9-inch Liquid Retina display",
           "processor": "Apple M1 chip",
+          "images":[
+            {"image":"https://firebasestorage.googleapis.com/v0/b/coreone-bd944.appspot.com/o/macs%2Fmacbook2024.png?alt=media&token=fed60124-12da-4051-8f4f-9fe84ee9d8f3"},
+            {"image":"https://firebasestorage.googleapis.com/v0/b/coreone-bd944.appspot.com/o/macs%2FmacbookAir.png?alt=media&token=652c8d88-13d1-4884-b469-1749d3cbcdf5"}
+          ],
           "storage": [
             {"size": "256GB", "price": 749},
             {"size": "512GB", "price": 849}
@@ -230,6 +254,10 @@
           "name": "iPad Pro (11-inch, 3rd generation)",
           "display": "11-inch Liquid Retina display",
           "processor": "Apple M1 chip",
+          "images":[
+            {"image":"https://firebasestorage.googleapis.com/v0/b/coreone-bd944.appspot.com/o/macs%2Fmacbook2024.png?alt=media&token=fed60124-12da-4051-8f4f-9fe84ee9d8f3"},
+            {"image":"https://firebasestorage.googleapis.com/v0/b/coreone-bd944.appspot.com/o/macs%2FmacbookAir.png?alt=media&token=652c8d88-13d1-4884-b469-1749d3cbcdf5"}
+          ],
           "storage": [
             {"size": "128GB", "price": 799},
             {"size": "256GB", "price": 899},
@@ -242,6 +270,10 @@
           "name": "iPad Pro (12.9-inch, 5th generation)",
           "display": "12.9-inch Liquid Retina XDR display",
           "processor": "Apple M1 chip",
+          "images":[
+            {"image":"https://firebasestorage.googleapis.com/v0/b/coreone-bd944.appspot.com/o/macs%2Fmacbook2024.png?alt=media&token=fed60124-12da-4051-8f4f-9fe84ee9d8f3"},
+            {"image":"https://firebasestorage.googleapis.com/v0/b/coreone-bd944.appspot.com/o/macs%2FmacbookAir.png?alt=media&token=652c8d88-13d1-4884-b469-1749d3cbcdf5"}
+          ],
           "storage": [
             {"size": "128GB", "price": 1099},
             {"size": "256GB", "price": 1199},
@@ -261,6 +293,10 @@
           "name": "Apple Watch Series 7",
           "display": "41mm/45mm Always-On Retina display",
           "processor": "S7 chip",
+          "images":[
+            {"image":"https://firebasestorage.googleapis.com/v0/b/coreone-bd944.appspot.com/o/macs%2Fmacbook2024.png?alt=media&token=fed60124-12da-4051-8f4f-9fe84ee9d8f3"},
+            {"image":"https://firebasestorage.googleapis.com/v0/b/coreone-bd944.appspot.com/o/macs%2FmacbookAir.png?alt=media&token=652c8d88-13d1-4884-b469-1749d3cbcdf5"}
+          ],
           "storage": "32GB",
           "price": 399
         },
@@ -269,6 +305,10 @@
           "name": "Apple Watch Series 8",
           "display": "41mm/45mm Always-On Retina display",
           "processor": "S8 chip",
+          "images":[
+            {"image":"https://firebasestorage.googleapis.com/v0/b/coreone-bd944.appspot.com/o/macs%2Fmacbook2024.png?alt=media&token=fed60124-12da-4051-8f4f-9fe84ee9d8f3"},
+            {"image":"https://firebasestorage.googleapis.com/v0/b/coreone-bd944.appspot.com/o/macs%2FmacbookAir.png?alt=media&token=652c8d88-13d1-4884-b469-1749d3cbcdf5"}
+          ],
           "storage": "32GB",
           "price": 399
         },
@@ -277,6 +317,10 @@
           "name": "Apple Watch SE (2nd generation)",
           "display": "40mm/44mm Retina display",
           "processor": "S8 chip",
+          "images":[
+            {"image":"https://firebasestorage.googleapis.com/v0/b/coreone-bd944.appspot.com/o/macs%2Fmacbook2024.png?alt=media&token=fed60124-12da-4051-8f4f-9fe84ee9d8f3"},
+            {"image":"https://firebasestorage.googleapis.com/v0/b/coreone-bd944.appspot.com/o/macs%2FmacbookAir.png?alt=media&token=652c8d88-13d1-4884-b469-1749d3cbcdf5"}
+          ],
           "storage": "32GB",
           "price": 249
         },
@@ -285,6 +329,10 @@
           "name": "Apple Watch Ultra",
           "display": "49mm Always-On Retina display",
           "processor": "S8 chip",
+          "images":[
+            {"image":"https://firebasestorage.googleapis.com/v0/b/coreone-bd944.appspot.com/o/macs%2Fmacbook2024.png?alt=media&token=fed60124-12da-4051-8f4f-9fe84ee9d8f3"},
+            {"image":"https://firebasestorage.googleapis.com/v0/b/coreone-bd944.appspot.com/o/macs%2FmacbookAir.png?alt=media&token=652c8d88-13d1-4884-b469-1749d3cbcdf5"}
+          ],
           "storage": "32GB",
           "price": 799
         }
@@ -297,6 +345,10 @@
         {
           "id": 22,
           "name": "AirPods (2nd generation)",
+          "images":[
+            {"image":"https://firebasestorage.googleapis.com/v0/b/coreone-bd944.appspot.com/o/macs%2Fmacbook2024.png?alt=media&token=fed60124-12da-4051-8f4f-9fe84ee9d8f3"},
+            {"image":"https://firebasestorage.googleapis.com/v0/b/coreone-bd944.appspot.com/o/macs%2FmacbookAir.png?alt=media&token=652c8d88-13d1-4884-b469-1749d3cbcdf5"}
+          ],
           "features": "Automatic switching, Spatial audio",
           "batteryLife": "Up to 24 hours with charging case",
           "price": 129
@@ -304,6 +356,10 @@
         {
           "id": 23,
           "name": "AirPods (3rd generation)",
+          "images":[
+            {"image":"https://firebasestorage.googleapis.com/v0/b/coreone-bd944.appspot.com/o/macs%2Fmacbook2024.png?alt=media&token=fed60124-12da-4051-8f4f-9fe84ee9d8f3"},
+            {"image":"https://firebasestorage.googleapis.com/v0/b/coreone-bd944.appspot.com/o/macs%2FmacbookAir.png?alt=media&token=652c8d88-13d1-4884-b469-1749d3cbcdf5"}
+          ],
           "features": "Spatial audio, Adaptive EQ",
           "batteryLife": "Up to 30 hours with charging case",
           "price": 179
@@ -311,6 +367,10 @@
         {
           "id": 24,
           "name": "AirPods Pro (2nd generation)",
+          "images":[
+            {"image":"https://firebasestorage.googleapis.com/v0/b/coreone-bd944.appspot.com/o/macs%2Fmacbook2024.png?alt=media&token=fed60124-12da-4051-8f4f-9fe84ee9d8f3"},
+            {"image":"https://firebasestorage.googleapis.com/v0/b/coreone-bd944.appspot.com/o/macs%2FmacbookAir.png?alt=media&token=652c8d88-13d1-4884-b469-1749d3cbcdf5"}
+          ],
           "features": "Active Noise Cancellation, Transparency mode",
           "batteryLife": "Up to 30 hours with charging case",
           "price": 249
@@ -318,12 +378,15 @@
         {
           "id": 25,
           "name": "AirPods Max",
+          "images":[
+            {"image":"https://firebasestorage.googleapis.com/v0/b/coreone-bd944.appspot.com/o/macs%2Fmacbook2024.png?alt=media&token=fed60124-12da-4051-8f4f-9fe84ee9d8f3"},
+            {"image":"https://firebasestorage.googleapis.com/v0/b/coreone-bd944.appspot.com/o/macs%2FmacbookAir.png?alt=media&token=652c8d88-13d1-4884-b469-1749d3cbcdf5"}
+          ],
           "features": "Active Noise Cancellation, Spatial audio",
           "batteryLife": "Up to 20 hours",
           "price": 549
         }
       ]
     }
-  ],
-"users":[]  
+  ]
 }
