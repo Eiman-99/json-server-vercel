@@ -294,45 +294,45 @@
           "id": 18,
           "name": "Apple Watch Ultra",
           "display": "49mm Always-On Retina display",
-          "processor": "S8 chip",
-          "images":[
-            {"image":"https://firebasestorage.googleapis.com/v0/b/coreone-bd944.appspot.com/o/macs%2Fmacbook2024.png?alt=media&token=fed60124-12da-4051-8f4f-9fe84ee9d8f3"},
-            {"image":"https://firebasestorage.googleapis.com/v0/b/coreone-bd944.appspot.com/o/macs%2FmacbookAir.png?alt=media&token=652c8d88-13d1-4884-b469-1749d3cbcdf5"}
+          "processor": "S9 chip",
+          "images": [
+            {"image": "https://firebasestorage.googleapis.com/v0/b/coreone-bd944.appspot.com/o/watches%2Fultra1.png?alt=media&token=8afa099f-fde7-4732-b95a-c2072c24a13b"},
+            {"image": "https://firebasestorage.googleapis.com/v0/b/coreone-bd944.appspot.com/o/watches%2Fultra2.png?alt=media&token=a880bf04-6a56-437d-97c1-8959e7b4a2ad"}
           ],
-          "storage": [{"size":"32GB", "price": 799}]
+          "storage": [{"size": "32GB", "price": 799}]
+        },
+        {
+          "id": 20,
+          "name": "Apple Watch Series 9",
+          "display": "41mm/45mm Always-On Retina display",
+          "processor": "S9 chip",
+          "images": [
+            {"image": "]https://firebasestorage.googleapis.com/v0/b/coreone-bd944.appspot.com/o/watches%2Fs9-1.png?alt=media&token=c628fb3b-cad2-434f-bf03-5a290460f990"},
+            {"image": "https://firebasestorage.googleapis.com/v0/b/coreone-bd944.appspot.com/o/watches%2Fs9-2.png?alt=media&token=80d259bc-69bf-4db7-844f-8c832fd08fb5"}
+          ],
+          "storage": [{"size": "32GB", "price": 399}]
+        },
+        {
+          "id": 21,
+          "name": "Apple Watch Series 8",
+          "display": "41mm/45mm Always-On Retina display",
+          "processor": "S8 chip",
+          "images": [
+            {"image": "https://firebasestorage.googleapis.com/v0/b/coreone-bd944.appspot.com/o/watches%2Fs8-1.png?alt=media&token=f03dd6fe-d6b9-4a50-8ccf-c3073ef26a17"},
+            {"image": "https://firebasestorage.googleapis.com/v0/b/coreone-bd944.appspot.com/o/watches%2Fs8-2.png?alt=media&token=c67a8056-a530-4951-84b2-d92b8733f351"}
+          ],
+          "storage": [{"size": "32GB", "price": 399}]
         },
         {
           "id": 19,
           "name": "Apple Watch SE (2nd generation)",
           "display": "40mm/44mm Retina display",
           "processor": "S8 chip",
-          "images":[
-            {"image":"https://firebasestorage.googleapis.com/v0/b/coreone-bd944.appspot.com/o/macs%2Fmacbook2024.png?alt=media&token=fed60124-12da-4051-8f4f-9fe84ee9d8f3"},
-            {"image":"https://firebasestorage.googleapis.com/v0/b/coreone-bd944.appspot.com/o/macs%2FmacbookAir.png?alt=media&token=652c8d88-13d1-4884-b469-1749d3cbcdf5"}
+          "images": [
+            {"image": "https://firebasestorage.googleapis.com/v0/b/coreone-bd944.appspot.com/o/watches%2Fse-1.png?alt=media&token=efadf94e-9000-432f-b6ae-57a82ca02f9a"},
+            {"image": "https://firebasestorage.googleapis.com/v0/b/coreone-bd944.appspot.com/o/watches%2Fse-2.png?alt=media&token=89647ecb-68f1-49a7-8861-ac558463a134"}
           ],
-          "storage": [{"size":"32GB","price": 249}]
-        },
-        {
-          "id": 20,
-          "name": "Apple Watch Series 8",
-          "display": "41mm/45mm Always-On Retina display",
-          "processor": "S8 chip",
-          "images":[
-            {"image":"https://firebasestorage.googleapis.com/v0/b/coreone-bd944.appspot.com/o/macs%2Fmacbook2024.png?alt=media&token=fed60124-12da-4051-8f4f-9fe84ee9d8f3"},
-            {"image":"https://firebasestorage.googleapis.com/v0/b/coreone-bd944.appspot.com/o/macs%2FmacbookAir.png?alt=media&token=652c8d88-13d1-4884-b469-1749d3cbcdf5"}
-          ],
-          "storage": [{"size":"32GB","price": 399}]
-        },
-        {
-          "id": 21,
-          "name": "Apple Watch Series 7",
-          "display": "41mm/45mm Always-On Retina display",
-          "processor": "S7 chip",
-          "images":[
-            {"image":"https://firebasestorage.googleapis.com/v0/b/coreone-bd944.appspot.com/o/macs%2Fmacbook2024.png?alt=media&token=fed60124-12da-4051-8f4f-9fe84ee9d8f3"},
-            {"image":"https://firebasestorage.googleapis.com/v0/b/coreone-bd944.appspot.com/o/macs%2FmacbookAir.png?alt=media&token=652c8d88-13d1-4884-b469-1749d3cbcdf5"}
-          ],
-          "storage": [{"size":"32GB","price": 399}]
+          "storage": [{"size": "32GB", "price": 249}]
         }
       ]
     },
