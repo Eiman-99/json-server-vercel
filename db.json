@@ -300,7 +300,7 @@
             {"image": "https://firebasestorage.googleapis.com/v0/b/coreone-bd944.appspot.com/o/watches%2Fultra1.png?alt=media&token=8afa099f-fde7-4732-b95a-c2072c24a13b"},
             {"image": "https://firebasestorage.googleapis.com/v0/b/coreone-bd944.appspot.com/o/watches%2Fultra2.png?alt=media&token=a880bf04-6a56-437d-97c1-8959e7b4a2ad"}
           ],
-          "storage": [{"size": "32GB", "price": 799}]
+          "storage": [{"size": "64GB", "price": 799}]
         },
         {
           "id": 20,
@@ -347,9 +347,10 @@
         {
           "id": 22,
           "name": "AirPods Pro (2nd generation)",
+          "thumbnail":"https://firebasestorage.googleapis.com/v0/b/coreone-bd944.appspot.com/o/airpods%2Fpro1.png?alt=media&token=4f4315f4-12cc-40c0-b9f7-707b089d2d1b",
           "images":[
-            {"image":"https://firebasestorage.googleapis.com/v0/b/coreone-bd944.appspot.com/o/macs%2Fmacbook2024.png?alt=media&token=fed60124-12da-4051-8f4f-9fe84ee9d8f3"},
-            {"image":"https://firebasestorage.googleapis.com/v0/b/coreone-bd944.appspot.com/o/macs%2FmacbookAir.png?alt=media&token=652c8d88-13d1-4884-b469-1749d3cbcdf5"}
+            {"image":"https://firebasestorage.googleapis.com/v0/b/coreone-bd944.appspot.com/o/airpods%2Fpro1.png?alt=media&token=4f4315f4-12cc-40c0-b9f7-707b089d2d1b"},
+            {"image":"https://firebasestorage.googleapis.com/v0/b/coreone-bd944.appspot.com/o/airpods%2Fpro2.png?alt=media&token=32512fd3-9329-4e74-a53b-aca36a9db4f6"}
           ],
           "features": "Active Noise Cancellation, Transparency mode",
           "batteryLife": "Up to 30 hours with charging case",
@@ -358,9 +359,10 @@
         {
           "id": 23,
           "name": "AirPods Max",
+          "thumbnail":"https://firebasestorage.googleapis.com/v0/b/coreone-bd944.appspot.com/o/airpods%2Fmax1.png?alt=media&token=e01a2856-f56b-4403-8ea1-01512817c76b",
           "images":[
-            {"image":"https://firebasestorage.googleapis.com/v0/b/coreone-bd944.appspot.com/o/macs%2Fmacbook2024.png?alt=media&token=fed60124-12da-4051-8f4f-9fe84ee9d8f3"},
-            {"image":"https://firebasestorage.googleapis.com/v0/b/coreone-bd944.appspot.com/o/macs%2FmacbookAir.png?alt=media&token=652c8d88-13d1-4884-b469-1749d3cbcdf5"}
+            {"image":"https://firebasestorage.googleapis.com/v0/b/coreone-bd944.appspot.com/o/airpods%2Fmax1.png?alt=media&token=e01a2856-f56b-4403-8ea1-01512817c76b"},
+            {"image":"https://firebasestorage.googleapis.com/v0/b/coreone-bd944.appspot.com/o/airpods%2Fmax2.png?alt=media&token=f98b6248-531e-4e7d-b386-4219dd5ace76"}
           ],
           "features": "Active Noise Cancellation, Spatial audio",
           "batteryLife": "Up to 20 hours",
@@ -369,9 +371,10 @@
         {
           "id": 24,
           "name": "AirPods (3rd generation)",
+          "thumbnail":"https://firebasestorage.googleapis.com/v0/b/coreone-bd944.appspot.com/o/airpods%2F3rd1.png?alt=media&token=5f4aba8f-44fd-4725-9181-6a871d091a68",
           "images":[
-            {"image":"https://firebasestorage.googleapis.com/v0/b/coreone-bd944.appspot.com/o/macs%2Fmacbook2024.png?alt=media&token=fed60124-12da-4051-8f4f-9fe84ee9d8f3"},
-            {"image":"https://firebasestorage.googleapis.com/v0/b/coreone-bd944.appspot.com/o/macs%2FmacbookAir.png?alt=media&token=652c8d88-13d1-4884-b469-1749d3cbcdf5"}
+            {"image":"https://firebasestorage.googleapis.com/v0/b/coreone-bd944.appspot.com/o/airpods%2F3rd1.png?alt=media&token=5f4aba8f-44fd-4725-9181-6a871d091a68"},
+            {"image":"https://firebasestorage.googleapis.com/v0/b/coreone-bd944.appspot.com/o/airpods%2F3rd2.png?alt=media&token=cde996c7-5f8b-484e-9063-1c4a3d3cd31a"}
           ],
           "features": "Spatial audio, Adaptive EQ",
           "batteryLife": "Up to 30 hours with charging case",
@@ -381,9 +384,10 @@
         {
           "id": 25,
           "name": "AirPods (2nd generation)",
+          "thumbnail":"https://firebasestorage.googleapis.com/v0/b/coreone-bd944.appspot.com/o/airpods%2F2nd1.png?alt=media&token=55586423-d4aa-4dc6-b99c-086f5eba604c",
           "images":[
-            {"image":"https://firebasestorage.googleapis.com/v0/b/coreone-bd944.appspot.com/o/macs%2Fmacbook2024.png?alt=media&token=fed60124-12da-4051-8f4f-9fe84ee9d8f3"},
-            {"image":"https://firebasestorage.googleapis.com/v0/b/coreone-bd944.appspot.com/o/macs%2FmacbookAir.png?alt=media&token=652c8d88-13d1-4884-b469-1749d3cbcdf5"}
+            {"image":"https://firebasestorage.googleapis.com/v0/b/coreone-bd944.appspot.com/o/airpods%2F2nd1.png?alt=media&token=55586423-d4aa-4dc6-b99c-086f5eba604c"},
+            {"image":"https://firebasestorage.googleapis.com/v0/b/coreone-bd944.appspot.com/o/airpods%2F2nd2.png?alt=media&token=a05cae6e-25d7-40b4-8ce4-f8f681b3b74b"}
           ],
           "features": "Automatic switching, Spatial audio",
           "batteryLife": "Up to 24 hours with charging case",
