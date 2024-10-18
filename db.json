@@ -293,6 +293,7 @@
         {
           "id": 18,
           "name": "Apple Watch Ultra",
+          "thumbnail":"https://firebasestorage.googleapis.com/v0/b/coreone-bd944.appspot.com/o/watches%2Fultra1.png?alt=media&token=8afa099f-fde7-4732-b95a-c2072c24a13b",
           "display": "49mm Always-On Retina display",
           "processor": "S9 chip",
           "images": [
@@ -304,10 +305,11 @@
         {
           "id": 20,
           "name": "Apple Watch Series 9",
+          "thumbnail":"https://firebasestorage.googleapis.com/v0/b/coreone-bd944.appspot.com/o/watches%2Fs9-1.png?alt=media&token=c628fb3b-cad2-434f-bf03-5a290460f990",
           "display": "41mm/45mm Always-On Retina display",
           "processor": "S9 chip",
           "images": [
-            {"image": "]https://firebasestorage.googleapis.com/v0/b/coreone-bd944.appspot.com/o/watches%2Fs9-1.png?alt=media&token=c628fb3b-cad2-434f-bf03-5a290460f990"},
+            {"image": "https://firebasestorage.googleapis.com/v0/b/coreone-bd944.appspot.com/o/watches%2Fs9-1.png?alt=media&token=c628fb3b-cad2-434f-bf03-5a290460f990"},
             {"image": "https://firebasestorage.googleapis.com/v0/b/coreone-bd944.appspot.com/o/watches%2Fs9-2.png?alt=media&token=80d259bc-69bf-4db7-844f-8c832fd08fb5"}
           ],
           "storage": [{"size": "32GB", "price": 399}]
@@ -315,6 +317,7 @@
         {
           "id": 21,
           "name": "Apple Watch Series 8",
+          "thumbnail":"https://firebasestorage.googleapis.com/v0/b/coreone-bd944.appspot.com/o/watches%2Fs8-1.png?alt=media&token=f03dd6fe-d6b9-4a50-8ccf-c3073ef26a17",
           "display": "41mm/45mm Always-On Retina display",
           "processor": "S8 chip",
           "images": [
@@ -326,6 +329,7 @@
         {
           "id": 19,
           "name": "Apple Watch SE (2nd generation)",
+          "thumbnail":"https://firebasestorage.googleapis.com/v0/b/coreone-bd944.appspot.com/o/watches%2Fse-1.png?alt=media&token=efadf94e-9000-432f-b6ae-57a82ca02f9a",
           "display": "40mm/44mm Retina display",
           "processor": "S8 chip",
           "images": [
